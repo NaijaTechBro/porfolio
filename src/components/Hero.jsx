@@ -30,7 +30,7 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2, duration: 0.5 }}
           >
-            <Greeting>Hi! I'm Sodiq Baki <span>👋</span></Greeting>
+            <Greeting>Hi! I'm Sodiq Baki Adeiza <span>👋</span></Greeting>
           </motion.div>
           
           <motion.div

@@ -73,7 +73,6 @@ const Header = ({ theme, toggleTheme }) => {
             <MobileMenuItem href="#about" onClick={() => setMobileMenuOpen(false)}>About me</MobileMenuItem>
             <MobileMenuItem href="#services" onClick={() => setMobileMenuOpen(false)}>Services</MobileMenuItem>
             <MobileMenuItem href="#portfolio" onClick={() => setMobileMenuOpen(false)}>My work</MobileMenuItem>
-            <MobileMenuItem href="#testimonials" onClick={() => setMobileMenuOpen(false)}>Testimonials</MobileMenuItem>
             <MobileMenuItem href="#contact" onClick={() => setMobileMenuOpen(false)}>Contact</MobileMenuItem>
             <ThemeToggleContainer>
               <ThemeToggle theme={theme} toggleTheme={toggleTheme} />

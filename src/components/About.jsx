@@ -74,7 +74,7 @@ const About = () => {
                     <GraduationCap size={24} />
                   </FeatureIcon>
                   <FeatureTitle>Education</FeatureTitle>
-                  <FeatureDescription>B.Eng in Mechanical Engineering</FeatureDescription>
+                  <FeatureDescription>B.Sc in Automobile Technology</FeatureDescription>
                 </FeatureBox>
                 
                 <FeatureBox variants={itemVariants}>

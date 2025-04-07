@@ -61,7 +61,7 @@ const Hero = () => {
           >
             <ButtonGroup>
               <PrimaryButton href="#contact">connect with me</PrimaryButton>
-              <SecondaryButton href="../assets/file/Baki_Sodiq_Adeiza_CV.pdf">
+              <SecondaryButton href="/Baki_Sodiq_Adeiza_CV.pdf" download="Baki_Sodiq_Adeiza_CV.pdf">
                 my resume <Download size={16} />
               </SecondaryButton>
             </ButtonGroup>

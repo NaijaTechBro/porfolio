@@ -50,7 +50,7 @@ const Hero = () => {
             transition={{ delay: 0.6, duration: 0.5 }}
           >
             <HeroDescription>
-              I am a Software developer from Lagos, Nigeria with 7 years of experience, worked with companies and done integrations with Lottomania, BetNaija, Nestlypay, Nidful etc.
+              I am a Software developer from Lagos, Nigeria with 7 years of experience, worked with companies and done integrations with Lottomania, BetNaija, Opay, First Bank and Nestlypay etc.
             </HeroDescription>
           </motion.div>
           

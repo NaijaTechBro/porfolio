@@ -6,7 +6,7 @@ import me from '../assets/banw.jpg';
 
 const Hero = () => {
   const [isHovering, setIsHovering] = useState(false);
-
+ 
   return (
     <HeroSection 
       id="home"
@@ -61,7 +61,7 @@ const Hero = () => {
           >
             <ButtonGroup>
               <PrimaryButton href="#contact">connect with me</PrimaryButton>
-              <SecondaryButton href="#resume">
+              <SecondaryButton href="../assets/file/Baki_Sodiq_Adeiza_CV.pdf">
                 my resume <Download size={16} />
               </SecondaryButton>
             </ButtonGroup>

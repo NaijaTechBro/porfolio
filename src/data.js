@@ -66,6 +66,15 @@ export const portfolioItems = [
     link: 'https://mylottohub.com',
     githubLink: 'https://github.com/mylottohub',
   },
+  {
+    id: 5,
+    title: 'GetListed Africa',
+    category: 'Software Development',
+    image: 'https://res.cloudinary.com/dkcazf954/image/upload/v1745709581/getlisted/startups/logos/logo-1745709580397_gwbv6h.jpg',
+    link: 'https://getlisted.site',
+    githubLink: 'https://github.com/',
+  },
+
 ];
 
 export const skills = [

@@ -74,6 +74,25 @@ export const portfolioItems = [
     link: 'https://getlisted.site',
     githubLink: 'https://github.com/',
   },
+  {
+    id: 6,
+    title: 'TravelAider',
+    category: 'Software Development',
+    image: '  https://travelaider.com/images/TAlogo2.jpg',
+    link: 'https://travelaider.com',
+    githubLink: 'https://github.com/',
+  },
+
+
+
+
+
+
+
+
+
+
+
 
 ];
 

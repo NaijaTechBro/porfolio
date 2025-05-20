@@ -2,7 +2,7 @@
 // data.js
 // Updated services data with icons that match the titles
 export const services = [
-  {
+    {
     id: 1,
     title: 'Frontend',
     description: 'Creating visually appealing and user-friendly web interfaces with responsive layouts, modern frameworks like React, and optimized performance.',
@@ -36,30 +36,63 @@ export const services = [
 export const portfolioItems = [
   {
     id: 1,
+    title: 'NairaDirect',
+    category: 'Software Development',
+    image: 'https://nairadirect.com/images/logo/1.png',
+    link: 'https://nairadirect.com/',
+    githubLink: 'https://github.com/',
+  },
+  {
+    id: 2,
+    title: 'ExchangeIndeed',
+    category: 'Software Development',
+    image: 'https://exchangeindeed.com/assets-images/logo.png',
+    link: 'https://exchangeindeed.com',
+    githubLink: 'https://github.com/',
+  },
+
+  {
+    id: 3,
+    title: 'TravelAider',
+    category: 'Software Development',
+    image: '  https://travelaider.com/images/TAlogo2.jpg',
+    link: 'https://travelaider.com',
+    githubLink: 'https://github.com/',
+  },
+    {
+    id: 4,
+    title: 'GetListed Africa',
+    category: 'Software Development',
+    image: 'https://res.cloudinary.com/dkcazf954/image/upload/v1745852851/getlisted/startups/logos/logo-1745852850632_mrv3qg.png',
+    link: 'https://getlisted.site',
+    githubLink: 'https://github.com/',
+  },
+  {
+    id: 4,
     title: 'HangUkQuant',
     category: 'Frontend',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuZXnzMMJ8E_kL5EgBd-kkN1YIAPL3VBGnQuzObo2nho0MXSYnEK6ABI&s=10',
     link: 'https://hangukquant.com',
     githubLink: 'https://github.com/',
   },
-  {
-    id: 2,
-    title: 'Express Forecast',
-    category: 'Backend',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFIOAWaDUz3_y8wgI2_BNyS-9P6NTOsCUglLSOhC57Qgup7nmk1Z1glU&s=10',
-    link: 'https://expressforecast.com',
-    githubLink: 'https://github.com/',
-  },
-  {
-    id: 3,
+    {
+    id: 5,
     title: 'Nova Algo Trading',
     category: 'Software Development',
     image: 'https://pbs.twimg.com/profile_images/1840706285106270208/hCw-qlAo_400x400.jpg',
     link: 'https://novaalgo.xyz',
-    githubLink: 'https://github.com/',
-  },
+    githubLink: ''
+    },
   {
-    id: 4,
+    id: 6,
+    title: 'Virtual Online Service',
+    category: 'Software Development',
+    image: 'https://virtualonlineservice.com/wp-content/uploads/2021/05/cropped-small-logo.png',
+    link: 'https://mylottohub.com',
+    githubLink: 'https://github.com/mylottohub',
+  },
+    {
+    id: 7,
     title: 'MyLottoHub',
     category: 'Software Development',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGD_h-CPQzFemHcCt9mUdsKvgsqO4pdfyOOA&s',
@@ -67,23 +100,29 @@ export const portfolioItems = [
     githubLink: 'https://github.com/mylottohub',
   },
   {
-    id: 5,
-    title: 'GetListed Africa',
-    category: 'Software Development',
-    image: 'https://res.cloudinary.com/dkcazf954/image/upload/v1745709581/getlisted/startups/logos/logo-1745709580397_gwbv6h.jpg',
-    link: 'https://getlisted.site',
+    id: 8,
+    title: 'Express Forecast',
+    category: 'Backend',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFIOAWaDUz3_y8wgI2_BNyS-9P6NTOsCUglLSOhC57Qgup7nmk1Z1glU&s=10',
+    link: 'https://expressforecast.com',
     githubLink: 'https://github.com/',
   },
   {
-    id: 6,
-    title: 'TravelAider',
+    id: 9,
+    title: 'Inside Redox',
     category: 'Software Development',
-    image: '  https://travelaider.com/images/TAlogo2.jpg',
-    link: 'https://travelaider.com',
+    image: 'https://redoxtrade.onrender.com/assets/logor-4a07fa91.png',
+    link: 'https://redox.com.ng',
     githubLink: 'https://github.com/',
   },
-
-
+  {
+    id: 10,
+    title: 'Nestlypay',
+    category: 'Software Development',
+    image: 'https://nestlipay-frontend.onrender.com/assets/logo-d174178b.png',
+    link: 'https://nestlypay.co',
+    githubLink: 'https://github.com/Nestlypay',
+  }
 
 
 

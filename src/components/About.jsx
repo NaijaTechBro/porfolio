@@ -66,7 +66,7 @@ const About = () => {
                     <Code size={24} />
                   </FeatureIcon>
                   <FeatureTitle>Languages</FeatureTitle>
-                  <FeatureDescription>React.js, Python, Php, Typescript, Node.js, JavaScript, Next.js</FeatureDescription>
+                  <FeatureDescription>React.js, Laravel, CodeIgniter, Python, Php, Typescript, Node.js, JavaScript, Next.js</FeatureDescription>
                 </FeatureBox>
                 
                 <FeatureBox variants={itemVariants}>

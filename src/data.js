@@ -34,8 +34,24 @@ export const services = [
 ];
 
 export const portfolioItems = [
-  {
+    {
     id: 1,
+    title: 'HoteSoft',
+    category: 'Software Development',
+    image: 'https://hotesoft.com/media/hotelsoft-images/Dashboardimage.png',
+    link: 'https://hotesoft.com/',
+    githubLink: 'https://github.com/',
+  },
+    {
+    id: 2,
+    title: 'Praxform',
+    category: 'Software Development',
+    image: 'https://praxform.com/assets/logo-B-nqIDlQ.png',
+    link: 'https://praxform.com/',
+    githubLink: 'https://github.com/',
+  },
+  {
+    id: 3,
     title: 'NairaDirect',
     category: 'Software Development',
     image: 'https://nairadirect.com/images/logo/1.png',
@@ -43,7 +59,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/',
   },
   {
-    id: 2,
+    id: 4,
     title: 'ExchangeIndeed',
     category: 'Software Development',
     image: 'https://exchangeindeed.com/assets-images/logo.png',
@@ -52,7 +68,7 @@ export const portfolioItems = [
   },
 
   {
-    id: 3,
+    id: 5,
     title: 'TravelAider',
     category: 'Software Development',
     image: '  https://travelaider.com/images/TAlogo2.jpg',
@@ -60,7 +76,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/',
   },
     {
-    id: 4,
+    id: 6,
     title: 'GetListed Africa',
     category: 'Software Development',
     image: 'https://res.cloudinary.com/dkcazf954/image/upload/v1745852851/getlisted/startups/logos/logo-1745852850632_mrv3qg.png',
@@ -68,7 +84,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/',
   },
   {
-    id: 4,
+    id: 7,
     title: 'HangUkQuant',
     category: 'Frontend',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuZXnzMMJ8E_kL5EgBd-kkN1YIAPL3VBGnQuzObo2nho0MXSYnEK6ABI&s=10',
@@ -76,7 +92,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/',
   },
     {
-    id: 5,
+    id: 8,
     title: 'Nova Algo Trading',
     category: 'Software Development',
     image: 'https://pbs.twimg.com/profile_images/1840706285106270208/hCw-qlAo_400x400.jpg',
@@ -84,7 +100,7 @@ export const portfolioItems = [
     githubLink: ''
     },
   {
-    id: 6,
+    id: 9,
     title: 'Virtual Online Service',
     category: 'Software Development',
     image: 'https://virtualonlineservice.com/wp-content/uploads/2021/05/cropped-small-logo.png',
@@ -92,7 +108,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/mylottohub',
   },
     {
-    id: 7,
+    id: 10,
     title: 'MyLottoHub',
     category: 'Software Development',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGD_h-CPQzFemHcCt9mUdsKvgsqO4pdfyOOA&s',
@@ -100,7 +116,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/mylottohub',
   },
   {
-    id: 8,
+    id: 11,
     title: 'Express Forecast',
     category: 'Backend',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFIOAWaDUz3_y8wgI2_BNyS-9P6NTOsCUglLSOhC57Qgup7nmk1Z1glU&s=10',
@@ -108,7 +124,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/',
   },
   {
-    id: 9,
+    id: 12,
     title: 'Inside Redox',
     category: 'Software Development',
     image: 'https://redoxtrade.onrender.com/assets/logor-4a07fa91.png',
@@ -116,7 +132,7 @@ export const portfolioItems = [
     githubLink: 'https://github.com/',
   },
   {
-    id: 10,
+    id: 13,
     title: 'Nestlypay',
     category: 'Software Development',
     image: 'https://nestlipay-frontend.onrender.com/assets/logo-d174178b.png',
